@@ -8,7 +8,8 @@
 </head>
 <body>
      <h1>
-    <?php  echo $task; ?>
+
+       {{$task ->title }}
      </h1>
 
 </body>
